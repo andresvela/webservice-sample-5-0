@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://bdocument.svn.cvsdude.com/BdocDesign2008"
+   name=""
+   revision="15529"
+   last-author="bghorbel"
+   url="https://bdocument.svn.cvsdude.com/BdocDesign2008/branches/BdocSuite500_HF/newBdocweb/BdocWebServices/client-sample/src/com/bdoc/service"
+   uuid="c0b8d18f-729f-468d-a268-0659540ba41a"
+   committed-rev="15301"
+   kind="dir"
+   committed-date="2012-05-18T14:00:24.932627Z"/>
+<entry
+   name="BDocDocument.java"
+   checksum="19d3aa74d6badca9f9361937aec98541"
+   last-author="bghorbel"
+   committed-rev="12640"
+   text-time="2012-01-31T11:32:19.394000Z"
+   kind="file"
+   committed-date="2012-01-31T11:32:19.394578Z"/>
+<entry
+   name="BDocNetworkException.java"
+   checksum="711d8d83e567165a3fd0364502e2b9e9"
+   last-author="bghorbel"
+   committed-rev="15301"
+   text-time="2012-05-18T14:00:24.932000Z"
+   kind="file"
+   committed-date="2012-05-18T14:00:24.932627Z"/>
+<entry
+   name="BDocNetworkException_Exception.java"
+   checksum="0228027d084e94e11f2a433106bcae3f"
+   last-author="bghorbel"
+   committed-rev="15301"
+   text-time="2012-05-18T14:00:24.932000Z"
+   kind="file"
+   committed-date="2012-05-18T14:00:24.932627Z"/>
+<entry
+   name="BDocResourceException.java"
+   checksum="711f4344381cbc8af88d4fefd76fb4b5"
+   last-author="bghorbel"
+   committed-rev="15301"
+   text-time="2012-05-18T14:00:24.932000Z"
+   kind="file"
+   committed-date="2012-05-18T14:00:24.932627Z"/>
+<entry
+   name="BDocResourceException_Exception.java"
+   checksum="4d679f9f08fad14d1ed5b135b093585e"
+   last-author="bghorbel"
+   committed-rev="15301"
+   text-time="2012-05-18T14:00:24.932000Z"
+   kind="file"
+   committed-date="2012-05-18T14:00:24.932627Z"/>
+<entry
+   name="BDocWebException.java"
+   checksum="0c7212874380b1b5a4367fbb08334056"
+   last-author="bghorbel"
+   committed-rev="15301"
+   text-time="2012-05-18T14:00:24.932000Z"
+   kind="file"
+   committed-date="2012-05-18T14:00:24.932627Z"/>
+<entry
+   name="BDocWebException_Exception.java"
+   checksum="f777c91c2f1b9470c4272c3b3044b34e"
+   last-author="bghorbel"
+   committed-rev="15301"
+   text-time="2012-05-18T14:00:24.932000Z"
+   kind="file"
+   committed-date="2012-05-18T14:00:24.932627Z"/>
+<entry
+   name="BdocWebWS.java"
+   checksum="43e04672380ca9283a2e6e9123e0fe4c"
+   last-author="bghorbel"
+   committed-rev="15301"
+   text-time="2012-05-18T14:00:24.932000Z"
+   kind="file"
+   committed-date="2012-05-18T14:00:24.932627Z"/>
+<entry
+   name="BdocWebWSService.java"
+   checksum="469b67e8bfedc948e94dcef955aaca37"
+   last-author="bghorbel"
+   committed-rev="15301"
+   text-time="2012-05-18T14:00:24.932000Z"
+   kind="file"
+   committed-date="2012-05-18T14:00:24.932627Z"/>
+<entry
+   name="DataField.java"
+   checksum="e3c63aff103353e019992b4bedcffb5b"
+   last-author="bghorbel"
+   committed-rev="15301"
+   text-time="2012-05-18T14:00:24.932000Z"
+   kind="file"
+   committed-date="2012-05-18T14:00:24.932627Z"/>
+<entry
+   name="DocumentInfo.java"
+   checksum="3522d7f3f7a85dd8a37d3b8151465235"
+   last-author="bghorbel"
+   committed-rev="11162"
+   text-time="2011-11-29T15:10:10.870000Z"
+   kind="file"
+   committed-date="2011-11-29T15:10:10.870068Z"/>
+<entry
+   name="Domain.java"
+   checksum="2c6e1819ec71462a89e9371962ce9e2d"
+   last-author="bghorbel"
+   committed-rev="10390"
+   text-time="2011-11-01T14:50:05.702000Z"
+   kind="file"
+   committed-date="2011-11-01T14:50:05.702082Z"/>
+<entry
+   name="Generation.java"
+   checksum="929c031009fae2e19c23079fc193aaef"
+   last-author="bghorbel"
+   committed-rev="10390"
+   text-time="2011-11-01T14:50:05.702000Z"
+   kind="file"
+   committed-date="2011-11-01T14:50:05.702082Z"/>
+<entry
+   name="GenerationResponse.java"
+   checksum="31089043da9db7125a9f8ee5c6bcf524"
+   last-author="bghorbel"
+   committed-rev="10390"
+   text-time="2011-11-01T14:50:05.702000Z"
+   kind="file"
+   committed-date="2011-11-01T14:50:05.702082Z"/>
+<entry
+   name="GetRepository.java"
+   checksum="461779207fb91aacaf99a268be9c1bfe"
+   last-author="bghorbel"
+   committed-rev="10390"
+   text-time="2011-11-01T14:50:05.702000Z"
+   kind="file"
+   committed-date="2011-11-01T14:50:05.702082Z"/>
+<entry
+   name="GetRepositoryResponse.java"
+   checksum="e8c5da259c9a93fc0b0f39d6c222273f"
+   last-author="bghorbel"
+   committed-rev="10390"
+   text-time="2011-11-01T14:50:05.702000Z"
+   kind="file"
+   committed-date="2011-11-01T14:50:05.702082Z"/>
+<entry
+   name="GetTemplate.java"
+   checksum="277628a986a6a0e90111950c4334acaa"
+   last-author="bghorbel"
+   committed-rev="10390"
+   text-time="2011-11-01T14:50:05.702000Z"
+   kind="file"
+   committed-date="2011-11-01T14:50:05.702082Z"/>
+<entry
+   name="GetTemplateResponse.java"
+   checksum="d25325155a928be28e24bedce467bf04"
+   last-author="bghorbel"
+   committed-rev="10390"
+   text-time="2011-11-01T14:50:05.702000Z"
+   kind="file"
+   committed-date="2011-11-01T14:50:05.702082Z"/>
+<entry
+   name="InputDataForm.java"
+   checksum="2c3c70a2cccea82f04a5734fba3bfc81"
+   last-author="bghorbel"
+   committed-rev="10390"
+   text-time="2011-11-01T14:50:05.702000Z"
+   kind="file"
+   committed-date="2011-11-01T14:50:05.702082Z"/>
+<entry
+   name="InputTextForm.java"
+   checksum="4c54c5cb47dd3bb7a7d9c872341c1a19"
+   last-author="bghorbel"
+   committed-rev="10390"
+   text-time="2011-11-01T14:50:05.702000Z"
+   kind="file"
+   committed-date="2011-11-01T14:50:05.702082Z"/>
+<entry
+   name="InteractionForm.java"
+   checksum="242b6f89b462e0a1fbd2f64e49a87053"
+   last-author="bghorbel"
+   committed-rev="11162"
+   text-time="2011-11-29T15:10:10.870000Z"
+   kind="file"
+   committed-date="2011-11-29T15:10:10.870068Z"/>
+<entry
+   name="InteractionResult.java"
+   checksum="ddbd3d1d697a8dda23bde112476dd359"
+   last-author="bghorbel"
+   committed-rev="11162"
+   text-time="2011-11-29T15:10:10.870000Z"
+   kind="file"
+   committed-date="2011-11-29T15:10:10.870068Z"/>
+<entry
+   name="Keyword.java"
+   checksum="36a509681778b60fa3e7d7e08ef147d2"
+   last-author="bghorbel"
+   committed-rev="10390"
+   text-time="2011-11-01T14:50:05.702000Z"
+   kind="file"
+   committed-date="2011-11-01T14:50:05.702082Z"/>
+<entry
+   name="MapItem.java"
+   checksum="b64c2a7541f9e75ff35392ac9aa99901"
+   last-author="bghorbel"
+   committed-rev="12640"
+   text-time="2012-01-31T11:32:19.394000Z"
+   kind="file"
+   committed-date="2012-01-31T11:32:19.394578Z"/>
+<entry
+   name="NodeItem.java"
+   checksum="b09c20071527d495993f195e378f4707"
+   last-author="bghorbel"
+   committed-rev="10390"
+   text-time="2011-11-01T14:50:05.702000Z"
+   kind="file"
+   committed-date="2011-11-01T14:50:05.702082Z"/>
+<entry
+   name="ObjectFactory.java"
+   checksum="23e9ceb605ded6cebd07f9e0bfc9f42c"
+   last-author="bghorbel"
+   committed-rev="15301"
+   text-time="2012-05-18T14:00:24.932000Z"
+   kind="file"
+   committed-date="2012-05-18T14:00:24.932627Z"/>
+<entry
+   name="TechnicalEntity.java"
+   checksum="9de2e74042601c94e99651322da7c4da"
+   last-author="bghorbel"
+   committed-rev="10390"
+   text-time="2011-11-01T14:50:05.702000Z"
+   kind="file"
+   committed-date="2011-11-01T14:50:05.702082Z"/>
+<entry
+   name="Template.java"
+   checksum="d9a7c9021e0bc24d99e39a8f7709aa5a"
+   last-author="bghorbel"
+   committed-rev="10390"
+   text-time="2011-11-01T14:50:05.702000Z"
+   kind="file"
+   committed-date="2011-11-01T14:50:05.702082Z"/>
+<entry
+   name="TemplateInfos.java"
+   checksum="27e817bcdec63ff59cdce0acd352cf49"
+   last-author="bghorbel"
+   committed-rev="10390"
+   text-time="2011-11-01T14:50:05.702000Z"
+   kind="file"
+   committed-date="2011-11-01T14:50:05.702082Z"/>
+<entry
+   name="ValidateDataForm.java"
+   checksum="1279375577a0ad4ce4fda20b18499c47"
+   last-author="bghorbel"
+   committed-rev="12640"
+   text-time="2012-01-31T11:32:19.394000Z"
+   kind="file"
+   committed-date="2012-01-31T11:32:19.394578Z"/>
+<entry
+   name="ValidateDataFormResponse.java"
+   checksum="ca12fa95655874afad86a9822caa11f1"
+   last-author="bghorbel"
+   committed-rev="11162"
+   text-time="2011-11-29T15:10:10.870000Z"
+   kind="file"
+   committed-date="2011-11-29T15:10:10.870068Z"/>
+<entry
+   name="ValidateTextForm.java"
+   checksum="885fd646b9a81affe171f224a3ca1059"
+   last-author="bghorbel"
+   committed-rev="12640"
+   text-time="2012-01-31T11:32:19.394000Z"
+   kind="file"
+   committed-date="2012-01-31T11:32:19.394578Z"/>
+<entry
+   name="ValidateTextFormResponse.java"
+   checksum="933492011596ec51b6a5d7b9067c72c5"
+   last-author="bghorbel"
+   committed-rev="11162"
+   text-time="2011-11-29T15:10:10.870000Z"
+   kind="file"
+   committed-date="2011-11-29T15:10:10.870068Z"/>
+<entry
+   name="ValidationType.java"
+   checksum="9a03595f99aa8286eab2c8aa1d05ec9c"
+   last-author="bghorbel"
+   committed-rev="12640"
+   text-time="2012-01-31T11:32:19.394000Z"
+   kind="file"
+   committed-date="2012-01-31T11:32:19.394578Z"/>
+<entry
+   name="package-info.java"
+   checksum="220c73b1f2dc830451527b7bc7b4c6b8"
+   last-author="bghorbel"
+   committed-rev="10390"
+   text-time="2011-11-01T14:50:05.702000Z"
+   kind="file"
+   committed-date="2011-11-01T14:50:05.702082Z"/>
+</wc-entries>

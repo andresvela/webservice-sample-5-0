@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://bdocument.svn.cvsdude.com/BdocDesign2008"
+   name=""
+   revision="15529"
+   last-author="bghorbel"
+   url="https://bdocument.svn.cvsdude.com/BdocDesign2008/branches/BdocSuite500_HF/newBdocweb/BdocWebServices/client-sample/resources"
+   uuid="c0b8d18f-729f-468d-a268-0659540ba41a"
+   committed-rev="15301"
+   kind="dir"
+   committed-date="2012-05-18T14:00:24.932627Z"/>
+<entry
+   name="BdocWebWSService.wsdl"
+   checksum="f6548ebec91a9663649de8a74647f19d"
+   last-author="bghorbel"
+   committed-rev="15301"
+   text-time="2012-05-18T14:00:24.932000Z"
+   kind="file"
+   committed-date="2012-05-18T14:00:24.932627Z"/>
+<entry
+   name="BdocWebWSService_schema1.xsd"
+   checksum="fd95747e8d91ce5f8358191fc2bc2a63"
+   last-author="bghorbel"
+   committed-rev="15301"
+   text-time="2012-05-18T14:00:24.932000Z"
+   kind="file"
+   committed-date="2012-05-18T14:00:24.932627Z"/>
+</wc-entries>

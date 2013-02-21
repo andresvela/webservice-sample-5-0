@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://bdocument.svn.cvsdude.com/BdocDesign2008"
+   name=""
+   revision="15529"
+   last-author="bghorbel"
+   url="https://bdocument.svn.cvsdude.com/BdocDesign2008/branches/BdocSuite500_HF/newBdocweb/BdocWebServices/client-sample/src"
+   uuid="c0b8d18f-729f-468d-a268-0659540ba41a"
+   committed-rev="15301"
+   kind="dir"
+   committed-date="2012-05-18T14:00:24.932627Z"/>
+<entry
+   name="com"
+   kind="dir"/>
+</wc-entries>
