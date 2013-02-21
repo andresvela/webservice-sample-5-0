@@ -78,7 +78,7 @@ public class BDocDocument {
      * 
      * @param value
      *     allowed object is
-     *     {@link String }
+     *     {@link String }fdf
      *     
      */
     public void setHtmlContent(String value) {
